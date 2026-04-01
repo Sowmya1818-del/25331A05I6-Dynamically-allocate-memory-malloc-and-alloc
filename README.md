@@ -1,0 +1,1 @@
+# 25331A05I6-Dynamically-allocate-memory-malloc-and-alloc
