@@ -33,5 +33,6 @@ printf("%d ", ptr2[i]);
 }
   free(ptr1);
   free(ptr2);
+  printf("\n25331A05I6");
 return 0;
 }
